@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Summary
+This project involved converting an HTML website to a React site. It has been deployed on netlify with the link below:
+https://backroads-tours-project-react.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
